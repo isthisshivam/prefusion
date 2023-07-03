@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>822119320306-skc64m7pcbcqbigp8398om9crgfgd7mg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.822119320306-skc64m7pcbcqbigp8398om9crgfgd7mg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>822119320306-30sf9ngm3uocr5kojl9iq93gqjm82nl9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvAxjqbpqWQzuRjOidkWgdiIsJ3ppEFN4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>822119320306</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.prefusionhealth.devRapid</string>
+	<key>PROJECT_ID</key>
+	<string>prefusionhealth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prefusionhealth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:822119320306:ios:d03603b952607840021e6b</string>
+	<key>DATABASE_URL</key>
+	<string>https://prefusionhealth-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

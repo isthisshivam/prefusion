@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822119320306",
+    "firebase_url": "https://prefusionhealth-default-rtdb.firebaseio.com",
+    "project_id": "prefusionhealth",
+    "storage_bucket": "prefusionhealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822119320306:android:a3bba2fa179b205a021e6b",
+        "android_client_info": {
+          "package_name": "com.prefusionhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822119320306-30sf9ngm3uocr5kojl9iq93gqjm82nl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prefusionhealth",
+            "certificate_hash": "4b60c1f330def8c61cea6537bab9838747ed5561"
+          }
+        },
+        {
+          "client_id": "822119320306-9qj8l2svpdgdj89lm8ij7vae4bmmhdn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsx0oVBsRrs4scGtHKcfhDilYmE7GoPAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822119320306-9qj8l2svpdgdj89lm8ij7vae4bmmhdn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822119320306-skc64m7pcbcqbigp8398om9crgfgd7mg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prefusionhealth.devRapid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
